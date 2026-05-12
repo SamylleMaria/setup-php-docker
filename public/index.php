@@ -7,7 +7,6 @@ echo "Teste";
 
 <?php
 
-die();
 include "../vendor/autoload.php";
 
 $url = $_SERVER['REQUEST_URI'];
