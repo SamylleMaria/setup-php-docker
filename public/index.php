@@ -1,6 +1,6 @@
 <?php
 
-echo "Ola mundo";
+echo "Teste";
 ?>
 
 <h1>Aula 12/05/2026 18:50</h1>
